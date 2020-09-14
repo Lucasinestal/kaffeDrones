@@ -1,0 +1,23 @@
+{
+  "name": "kaffedrones",
+  "version": "1.0.0",
+  "description": "* Lägga produkter i en varukorg.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucasinestal/kaffeDrones.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucasinestal/kaffeDrones/issues"
+  },
+  "homepage": "https://github.com/Lucasinestal/kaffeDrones#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
